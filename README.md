@@ -1,1 +1,1 @@
-## Daily To Go 1 hr dedicated to Basics of Programming
+## Daily Go To 1 hr dedicated to Basics of Programming
